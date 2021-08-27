@@ -1,0 +1,20 @@
+#right{
+	text-align: left;
+}
+#left{
+	font-weight: bold;
+	vertical-align: text-top;
+}
+body{
+	text-align: center;	
+	background-color: #f0dbbfd5;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+td{
+	border: 10px;
+	font-size: large;
+}
+li{
+	line-height: 1.6;
+}
