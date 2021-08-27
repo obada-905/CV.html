@@ -11,10 +11,18 @@ body{
 	margin-left: 10%;
 	margin-right: 10%;
 }
-td{
-	border: 10px;
-	font-size: large;
-}
 li{
 	line-height: 1.6;
+}
+#content{
+	font-family: Arial;
+	width: 100%;
+} 
+td{
+	padding: 8px;
+	border: 15px;
+	font-size: large;
+}  
+tr{
+	background-color: #f5eed6;
 }
